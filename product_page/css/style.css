@@ -3,3 +3,31 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.product-button-comprar {
+    font-size: 23px;
+    margin: 5px;
+    background-color: #01C38E;
+    color: white;
+    border: none;
+    width: 300px;
+    height: 50px;
+}
+
+.product-button-comprar:hover {
+    background-color: #01b686;
+}
+
+.product-button-agregar {
+    font-size: 23px;
+    margin: 5px;
+    background-color: #7de6c8;
+    color: #01C38E;
+    border: none;
+    width: 300px;
+    height: 50px;
+}
+
+.product-button-agregar:hover {
+    background-color: #74d4b9;
+}
